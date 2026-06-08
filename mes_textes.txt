@@ -1,0 +1,30 @@
+Comment configurer le module de commande du robot autonome ?
+Le script PHP permet de récupérer les fichiers de l'entreprise de manière sécurisée.
+L'intégration du chatbot se fait via une architecture RAG avec une base vectorielle.
+La base documentaire contient les procédures pour les demandes de congés payés.
+Procédure de déploiement continu via les pipelines Jenkins et GitLab CI.
+Le simulateur iOS a échoué lors du lancement de l'application mobile.
+Quelle est la durée moyenne pour la mise en place complète d'un ERP ?
+Comment réinitialiser mon mot de passe sur le portail RH ?
+Guide technique pour configurer l'authentification à deux facteurs (2FA).
+Le module d'itinéraire calcule le trajet optimal pour éviter les obstacles.
+L'assistant de recherche utilise un modèle de langage pour filtrer les documents.
+Où puis-je trouver ma fiche de paie du mois dernier ?
+Erreur de build lors de la compilation du code C++ sur le serveur.
+Le framework React Native est idéal pour le développement mobile cross-platform.
+Comment soumettre une note de frais après un déplacement professionnel ?
+Le chatbot d'entreprise aide les utilisateurs à trouver rapidement les fichiers internes.
+Algorithme de planification de trajectoire pour les robots mobiles de l'usine.
+Analyse des coûts et des délais pour l'intégration du logiciel de gestion Ubisoft.
+Les feuilles de style HTML et CSS permettent de personnaliser l'interface utilisateur.
+Comment faire une demande d'accès aux serveurs de production ?
+L'architecture de l'application repose sur des microservices en Node.js.
+Le modèle d'embedding convertit les textes techniques en vecteurs mathématiques.
+Quelles sont les compétences requises pour le stage en développement logiciel ?
+Le menu de l'assistant de recherche a été modifié avec de nouvelles images.
+Dysfonctionnement du capteur de distance sur le châssis du robot.
+Le script de migration de la base de données PostgreSQL a échoué.
+Calendrier des entretiens annuels d'évaluation pour l'année en cours.
+Optimisation des requêtes SQL pour améliorer le temps de réponse du site PHP.
+Comment utiliser les hooks en React pour gérer l'état de l'interface ?
+Rapport d'anomalie concernant l'affichage du menu principal sur grand écran.
