@@ -10,7 +10,7 @@ with open("mes_textes.txt", "r", encoding="utf-8") as f:
 print(f"Lignes chargées : {len(texts)}")
 
 # 2. API Cohere v4 (1024 dimensions via Matryoshka)
-co = cohere.Client("Umnbyw41lF3ywbT9RzTMGhzFLu7SSLB9LV4pPmgO")
+co = cohere.Client("clé cohere")
 cohere_resp = co.v2.embed(
     texts=texts,
     model="embed-v4.0",
@@ -22,7 +22,7 @@ cohere_vectors = cohere_resp.embeddings.float_
 
 # 3. API Jina AI v4 (Tronqué à 1024 dimensions via Matryoshka + Task Spécifique)
 headers = {
-    "Authorization": "Bearer jina_25959d44812b4778992eda00ce947613sdCfmGz1sAOsAXuxI-vTI1EIlOhc",
+    "Authorization": "Bearer clé jina",
     "Content-Type": "application/json",  # Indispensable pour l'API Jina
 }
 json_data = {
