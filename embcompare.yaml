@@ -1,0 +1,9 @@
+embeddings:
+  jina_v4:
+    name: jina_v4
+    path: /Users/axel/Document/BUT/stage/prepare_france_travail.py/vectors_jina.json
+    format: json
+  cohere_v4:
+    name: cohere_v4
+    path: /Users/axel/Document/BUT/stage/prepare_france_travail.py/vectors_cohere.json
+    format: json
